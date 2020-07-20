@@ -1,0 +1,50 @@
+# Original source: https://github.com/Mayccoll/Gogh
+colors:
+  # Default colors
+  primary:
+    background: '#010101'
+    foreground: '#a8a49d'
+
+    dim_foreground:    '#a8a49d'
+    bright_foreground: '#a8a49d'
+    dim_background:    '#010101'
+    bright_background: '#010101'
+
+  # Cursor colors
+  cursor:
+    text:   '#010101'
+    cursor: '#a8a49d'
+
+  # Normal colors
+  normal:
+    black:   '#010101'
+    red:     '#f8b63f'
+    green:   '#7fb5e1'
+    yellow:  '#d6da25'
+    blue:    '#489e48'
+    magenta: '#b296c6'
+    cyan:    '#f5bfd7'
+    white:   '#a8a49d'
+
+  # Bright colors
+  bright:
+    black:   '#726e6a'
+    red:     '#f8b63f'
+    green:   '#7fb5e1'
+    yellow:  '#d6da25'
+    blue:    '#489e48'
+    magenta: '#b296c6'
+    cyan:    '#f5bfd7'
+    white:   '#fefbea'
+
+  # Dim colors
+  dim:
+    black:   '#010101'
+    red:     '#f8b63f'
+    green:   '#7fb5e1'
+    yellow:  '#d6da25'
+    blue:    '#489e48'
+    magenta: '#b296c6'
+    cyan:    '#f5bfd7'
+    white:   '#a8a49d'
+
